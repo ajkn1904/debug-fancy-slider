@@ -122,4 +122,4 @@ sliderBtn.addEventListener('click', function () {
 })
 
 
-getImages('');
+getImages('flower');
